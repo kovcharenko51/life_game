@@ -1,2 +1,3 @@
-# life_game
-Conway's Game of Life
+# Conway's Game of Life
+
+Tinkoff's ML course entrance exam task
